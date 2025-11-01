@@ -13,3 +13,10 @@
   - MSSI_GUIPlotノートブックでは、選択した種類のデータについて、時系列プロット、季節性プロット、STL成分分解を行うことができます。
  
   - MSSI_Arimamodelノートブックでは、ARIMAモデルを用いた、実践的な時系列データ分析を行い、記述統計から推測統計までの一連の分析を行っています。
+
+こちらのリンクからgoogle colaboratoryで開くことができます。
+
+https://colab.research.google.com/github/N-noa21/MSSI-estat/blob/main/MSSI_Arimamodel.ipynb
+
+https://colab.research.google.com/github/N-noa21/MSSI-estat/blob/main/MSSI_GUIplot.ipynb
+
